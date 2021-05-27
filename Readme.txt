@@ -11,7 +11,7 @@ Rua Dr. Roberto Frias, 378
 
 
 =========================================
-Background and ....
+Background and
 =========================================
 
 Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return 
